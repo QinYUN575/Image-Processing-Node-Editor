@@ -2,7 +2,7 @@ opencv-contrib-python==4.5.5.64
 onnxruntime-gpu==1.11.1
 dearpygui==1.6.2
 mediapipe==0.8.10
-protobuf==3.20.0
+protobuf==3.20.2
 filterpy==1.4.5
 lap==0.4.0
 Cython==0.29.30
