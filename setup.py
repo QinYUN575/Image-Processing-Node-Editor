@@ -47,7 +47,7 @@ setup(
     license="Apache-2.0 license",
     python_requires=">=3.7",
     install_requires=[
-        "numpy>=1.21.6", "Cython==0.29.30", "opencv-python==4.5.5.64",
+        "numpy>=1.21.6", "Cython==0.29.30", "opencv-python==4.8.1.78",
         "onnxruntime-gpu==1.11.1", "dearpygui==1.6.2", "mediapipe==0.8.10",
         "protobuf==3.20.0", "filterpy==1.4.5", "lap==0.4.0",
         "cython-bbox==0.1.3", "rich==12.4.4"
